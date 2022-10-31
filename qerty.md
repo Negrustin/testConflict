@@ -1,2 +1,2 @@
 test
-test_check
+test_check.new
